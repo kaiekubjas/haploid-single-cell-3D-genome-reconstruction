@@ -5,7 +5,7 @@ This repository contains code for the article "Single cell 3D genome reconstruct
 ## File descriptions
 
 * MATLAB script `examples.m` that contains an example for synthetic data generation and 3D genome reconstruction from HiC matrix using our method.
-* 
+
 * MATLAB function `simulate_chromosomes.m` that outputs a synthetic chromosome of a given length in 3D. A chromosome of length n is represented by an (nx3)-matrix where each row represents coordinates of a bead on the chromosome.
 
 * MATLAB function `generate_HiC_matrix.m` that outputs a HiC matrix given a chromosome and a threshold radius for a contact between beads.
