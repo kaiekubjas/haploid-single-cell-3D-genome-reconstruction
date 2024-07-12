@@ -3,7 +3,7 @@
 (* This file shows some Mathematica code for reading and aggregating real data.
 
  * Note that Mathematica is needed for running the code.
- * Furthermore, an input text file with lines of the form "#chr_A	pos_A	chr_B	pos_B" is needed.
+ * Furthermore, an input text file with lines of the form "#chr_A	pos_A	chr_B	pos_B" with a header is needed.
  *)
 
 
