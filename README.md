@@ -18,4 +18,4 @@ This repository contains code for the article "Single cell 3D genome reconstruct
 
 ## Dependencies
 
-The MATLAB script `examples.m` and function `reconstruct_from_HiC_matrix.m` require CVX: Matlab Software for Disciplined Convex Programming.
+The MATLAB script `examples.m` and function `reconstruct_from_HiC_matrix.m` require [CVX: Matlab Software for Disciplined Convex Programming](https://cvxr.com/cvx/).
